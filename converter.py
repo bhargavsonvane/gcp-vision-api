@@ -2,7 +2,7 @@ import io
 from google.cloud import vision 
 from google.cloud.vision import types 
 vision_client = vision.ImageAnnotatorClient() 
-file_name = 'hjacksonbrownjr1-2x.jpg' 
+file_name = 'mysample.jpg' 
 with io.open(file_name,'rb') as image_file: 
         content = image_file.read() 
         image = types.Image(content=content) 
