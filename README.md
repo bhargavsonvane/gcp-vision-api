@@ -8,7 +8,7 @@
 </p>
 
 # gcp-vision-api
-A project to extract texts from the input image powered by GCP's Cloud Vision API
+## A project to extract texts from the input image powered by GCP's Cloud Vision API
 
 This includes 4 steps:
 1.  Creating Virtual Machine on Google Cloud Platform.
