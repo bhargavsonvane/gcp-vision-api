@@ -3,7 +3,7 @@
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
   <a href="https://opensource.org/licenses/MIT">
-   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?&style=for-the-badge&logoColor=white">
  </a>
 </p>
 
