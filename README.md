@@ -26,5 +26,12 @@ https://cloud.google.com/compute/docs/quickstart-linux
 
 Steps to implement :
 -  Open VM instance
-   ![alt text](https://github.com/bhargavsonvane/gcp-vision-api/blob/main/images/openvminstance.png?raw=true)
+ 
+<img align="center" width="100" height="100" src="https://github.com/bhargavsonvane/gcp-vision-api/blob/main/images/openvminstance.png?raw=true">
+---   
+
+-  Open VM instance
+ 
+<img align="center" width="100" height="100" src="https://github.com/bhargavsonvane/gcp-vision-api/blob/main/images/openvminstance.png?raw=true">
+---   
 
