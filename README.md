@@ -1,8 +1,8 @@
 <p>
-  <a href="https://in.linkedin.com/in/bhargav-sonvane">
+  <a href="https://in.linkedin.com/in/bhargav-sonvane" target="_blank">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
-  <a href="https://opensource.org/licenses/MIT">
+  <a href="https://opensource.org/licenses/MIT" target="_blank">
    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?&style=for-the-badge&logoColor=white">
  </a>
 </p>
