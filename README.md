@@ -2,7 +2,9 @@
   <a href="https://in.linkedin.com/in/bhargav-sonvane">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  <a href="https://opensource.org/licenses/MIT">
+   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
 </p>
 
 # gcp-vision-api
