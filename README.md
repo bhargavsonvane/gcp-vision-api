@@ -9,8 +9,8 @@ This includes 4 steps:
 
 We will use SSH for connecting Local Machine to Cloud VM: 
 SSH Instructions for Windows User:
-1.Download Putty
-2.Open Putty Key Generator
+- Download Putty
+- Open Putty Key Generator
 - Click on generate key
 - You can change Key Comment field with your project name.
 - Copy Complete Key value.
