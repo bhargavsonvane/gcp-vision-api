@@ -1,6 +1,9 @@
-<!-- PROJECT SHIELDS -->
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<p>
+  <a href="https://in.linkedin.com/in/bhargav-sonvane">
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+</p>
 
 # gcp-vision-api
 A project to extract texts from the input image powered by GCP's Cloud Vision API
