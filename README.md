@@ -15,4 +15,16 @@ SSH Instructions for Windows User:
 - You can change Key Comment field with your project name.
 - Copy Complete Key value.
 
+Create & setup your GCP Account if you haven't from below link: 
+https://cloud.google.com/
+
+After creating account successfully. Go to Compute Engine > VM instances and
+create VM with Ubuntu OS.
+
+For tutorial on VM Creation check the below link:
+https://cloud.google.com/compute/docs/quickstart-linux
+
+Steps to implement :
+-  Open VM instance
+![alt text](https://github.com/bhargavsonvane/gcp-vision-api/blob/main/images/openvminstance.png?raw=true)
 
