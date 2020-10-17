@@ -54,36 +54,29 @@ below screenshot.
 
 <img align="center"  src="https://github.com/bhargavsonvane/gcp-vision-api/blob/main/images/createjson.png?raw=true">
 
-After clicking on Create button you will get a .json file. Save that file in local
-machine.
+After clicking on Create button you will get a .json file. Save that file in local machine.
 
--Now we have to copy the contents of the downloaded .json file to paste it in our server machine.
-
-1.Copy contents of .json file.
-2.In VM Instance create .json file and paste contents in it.
+- Now we have to copy the contents of the downloaded .json file to paste it in our server machine.
+1. Copy contents of .json file.
+2. In VM Instance create .json file and paste contents in it.
 
 This .json file contains private key for secure connection to APIs.
--Let’s connect to API by using following command:
-“export GOOGLE_APPLICATION_CREDENTIALS=~/Path of your .json file”
+- Let’s connect to API by using following command: “export GOOGLE_APPLICATION_CREDENTIALS=~/Path of your .json file”
 
--After doing this your server may not work even after restart. So now we will update
-.profile file.
--open .profile file and paste,
-“export GOOGLE_APPLICATION_CREDENTIALS=~/Path of your .json file” at
-the end of file.
--Now to update this change in entire system enter command “source ~/.bashrc”.
+- After doing this your server may not work even after restart. So now we will update .profile file.
+- open .profile file and paste, “export GOOGLE_APPLICATION_CREDENTIALS=~/Path of your .json file” at the end of file.
+- Now to update this change in entire system enter command “source ~/.bashrc”.
 
--Now everything is done at background. Our VM is ready and We installed Vision
-API on it. It’s time to write python code.
--First download the image that you want to convert into text. Use “wget
-Image_address” to download it from web. (Copy image address by right clicking on
+- Now everything is done at background. Our VM is ready and We installed Vision API on it. It’s time to write python code.
+- First download the image that you want to convert into text. Use “wget Image_address” to download it from web. (Copy image address by right clicking on
 image)
-For example, This is the input image we want to Convert:
+- For example, This is the input image we want to Convert:
 
-<img align="center"  src="https://github.com/bhargavsonvane/gcp-vision-api/blob/main/images/img.jpg?raw=true">
+<img align="center"  src="https://github.com/bhargavsonvane/gcp-vision-api/blob/main/images/img.jpeg?raw=true">
 
-Output :
+- Output
 <img align="center"  src="https://github.com/bhargavsonvane/gcp-vision-api/blob/main/images/output.png?raw=true">
 
-And We are done!!!...You can copy this quote and paste anywhere!!!
+And We are done!!!...
+You can copy this quote and paste anywhere!!!
 You can design good user interface or android application on top of it.
