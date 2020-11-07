@@ -35,33 +35,14 @@ https://cloud.google.com/compute/docs/quickstart-linux
 
 Steps to implement :
 -  Open VM instance & Click on instance1 (your instance name)
- 
-<img align="center" src="https://github.com/bhargavsonvane/gcp-vision-api/blob/main/images/openvminstance.png?raw=true">   
-
 -  Click Edit
- 
-<img align="center"  src="https://github.com/bhargavsonvane/gcp-vision-api/blob/main/images/edit.png?raw=true">
-
 -  In SSH keys section click on “show and edit” option
- 
-<img align="center"  src="https://github.com/bhargavsonvane/gcp-vision-api/blob/main/images/saveedit.png?raw=true">
-
 -  Paste public key
- 
-<img align="center"  src="https://github.com/bhargavsonvane/gcp-vision-api/blob/main/images/pastepkey.png?raw=true">
-
 -  Allow HTTP and HTTPS traffic and click on save.
- 
-<img align="center"  src="https://github.com/bhargavsonvane/gcp-vision-api/blob/main/images/allow.png?raw=true">
-
 - Save Public and Private keys in Putty Key Generator. (It saves in the form of files)
 - In Putty Configuration window go to SSH >Auth and browse private key file that you already saved in your system.
 - In Putty Configuration window go to Session enter external IP address of VM instance and Hit Enter. It’s done..... 
-
-- Now we have to create API Key on GCP. So, go to APIs & Services > Credentials. After that go to Create Credentials > Service Account Key. In Service account key section select service account as new service account and do rest changes as per
-below screenshot.
-
-<img align="center"  src="https://github.com/bhargavsonvane/gcp-vision-api/blob/main/images/createjson.png?raw=true">
+- Now we have to create API Key on GCP. So, go to APIs & Services > Credentials. After that go to Create Credentials > Service Account Key. In Service account key section select service account as new service account and do rest changes.
 
 After clicking on Create button you will get a .json file. Save that file in local machine.
 
@@ -87,5 +68,4 @@ image)
 <img align="center"  src="https://github.com/bhargavsonvane/gcp-vision-api/blob/main/images/output.png?raw=true">
 
 And We are done!!!...
-You can copy this quote and paste anywhere!!!
-You can design good user interface or android application on top of it.
+We can go further advance & make a cool application - image text extractor!!
